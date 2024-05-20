@@ -1,3 +1,3 @@
 are you ready ? LETS GOOOOO
 книга по git:
-https://git-scm.com/book/ru/v2/
+https://git-scm.com/bookTEST_TEXT/ru/v2/
